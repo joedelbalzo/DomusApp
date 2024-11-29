@@ -1,21 +1,18 @@
-"use client";
-
 import { useEffect } from "react";
-import { useAppDispatch, useAppSelector } from "../store/hooks";
-import { fetchProperties } from "../store/propertySlice";
+import { useAppSelector, useAppDispatch } from "../../store/hooks";
+import { fetchProperties } from "../../store/propertySlice";
 
 export default function Home() {
   const dispatch = useAppDispatch();
   const { items: properties, status: propertyStatus, error } = useAppSelector((state) => state.properties);
 
   useEffect(() => {
-    if (propertyStatus === "idle") {
+    if (propertyStatus == "idle") {
       dispatch(fetchProperties());
     }
   }, [propertyStatus, dispatch]);
 
   let content;
-
   if (propertyStatus === "loading") {
     content = <p>Loading...</p>;
   } else if (propertyStatus === "succeeded") {
