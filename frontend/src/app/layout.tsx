@@ -3,13 +3,18 @@
 
 import { Provider } from "react-redux";
 import store from "../store/index";
-// import "../styles/globals.css"; // Adjust the path as needed
+import ThemeToggle from "./ThemeToggle";
+import { ThemeProvider } from "./ThemeProvider";
+import "./globals.css";
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <body>
-        <Provider store={store}>{children}</Provider>
+        <ThemeProvider>
+          <ThemeToggle />
+          <Provider store={store}>{children}</Provider>
+        </ThemeProvider>
       </body>
     </html>
   );

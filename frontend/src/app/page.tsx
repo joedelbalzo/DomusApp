@@ -3,6 +3,7 @@
 import { useEffect } from "react";
 import { useAppDispatch, useAppSelector } from "../store/hooks";
 import { fetchProperties } from "../store/propertySlice";
+import LoginPage from "./login";
 
 export default function Home() {
   const dispatch = useAppDispatch();
@@ -35,6 +36,7 @@ export default function Home() {
 
   return (
     <div>
+      <LoginPage />
       <h1>Properties!</h1>
       {content}
     </div>

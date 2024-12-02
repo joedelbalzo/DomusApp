@@ -1,6 +1,6 @@
 import { createSlice, createAsyncThunk, PayloadAction } from "@reduxjs/toolkit";
 import { RootState } from "./index";
-import axios from "axios";
+import api from "./api";
 
 interface Property {
   id: number;
@@ -19,16 +19,6 @@ const initialState: PropertyState = {
   status: "idle",
   error: null,
 };
-
-const devStatus: string = "development";
-const baseUrl: string = devStatus == "development" ? "http://127.0.0.1:8000" : "";
-
-const api = axios.create({
-  baseURL: baseUrl,
-  headers: {
-    "Content-Type": "application/json",
-  },
-});
 
 export const fetchProperties = createAsyncThunk<Property[], void, { state: RootState }>("properties/fetchProperties", async () => {
   const response = await api.get<Property[]>(`/api/properties/`);
