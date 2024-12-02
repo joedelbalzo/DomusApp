@@ -1,0 +1,942 @@
+[
+  {
+    "title": "HVAC: Vacuum out return grills",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "HVAC: Clean Pump Tank",
+    "description": "Add 1/4 cup of distilled white vinegar in drain pump tank",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Furnace: Inspect Filter",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Test Smoke and CO Detectors",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Test GFCI Outlets",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Inspect Fire Extinguishers",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Vacuum Refrigerator Coils",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Inspect Plumbing for Leaks",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Plumbing: Clear drain screens",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Garbage Disposal: Clean and Clear",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Dish Washer: Clean and Check filters",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Washing Machine: Clean and Check filter",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Microwave: Inspect Filters",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Vacuum: Clean filters",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Vacuum: Clean brush",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Electronics: Check surge protectors",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Electronics: Pressure dust",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Air purifier: Inspect filter",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Home Monitoring System: Check functionality",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Security Cameras: Check SD cards are operating",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": null,
+    "frequency_value": 1,
+    "frequency_unit": "months",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "AC: Service and Cleaning",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Gutters: Clean",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Gutter Drain Pipes: Flush",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Patio Furniture: Bring Out and Clean",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Solar Lights: Clean off and Inspect",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Foundation: Spray insect barrier",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Gutters: Inspect for damage",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Roof: Inspect shingles",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Windows: Inspect exterior caulking",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Doors: Inspect exterior caulking",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Basement: Inspect foundation for moisture",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Sump Pump: Test",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Furnace: Change filter",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Windows: Clean screens",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Microwave: Replace filters",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Fridge: Replace water filter",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Attic: Inspect for water leaks -animals",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Windows: Inspect seals",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Doors: Inspect seals",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Riding mower: Change oil + filter + fuel filter",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Push mower: Change oil + air filter + fuel filter",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Chainsaw: Test Run",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Weedwhacker: Test Run",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Gas: Fill cans",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Snow blower: prep for storage",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-03-20",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Garage Door: Oil track, chain, springs",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Garage Door: Check auto-reverse",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Garage Door: Replace batteries (openers)",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Windows: Clean weep holes",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Slider: Clean weep hole",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "AC: Inspect drip line operation and drainage",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Walkway: Inspect for loose stone",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Stairs: Inspect for loose stone",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Landscaping blocks: Inspect for damage",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Water Heater: Drain sediment",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Water Heater: Test pressure relief valve",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Dryer: Clean dryer vent duct",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Stove: Scrub and clean interior floor",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Furnace: Service and cleaning",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Chimney: Hood and liner inspection",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Gutters: Clean",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Trees: Trim dead branches",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "AC: Cover unit (top only)",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Patio Furniture: Bring in and clean",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Basement Windows: Clear window wells",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Dryer: Clear out duct screen",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Windows: Inspect exterior caulking",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Doors: Inspect exterior caulking",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Garage: Inspect door seals",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Lighting: Confirm all exterior lights are operational",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-09-22",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Gutter Drain Pipes: Flush",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-12-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Eves: Rake (as needed)",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-12-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Spigots: Drain water (post shutoff)",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-12-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Spigots: Cover with frost shields",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-12-21",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Septic Tank pumping",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 600,
+    "youtube_url": ""
+  },
+  {
+    "title": "Siding: Pressure Wash",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Porch: Pressure Wash",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Deck: Pressure Wash",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Stairs: Pressure Wash",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Mulch: Replace -replenish",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 40,
+    "youtube_url": ""
+  },
+  {
+    "title": "Driveway: Seal",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 375,
+    "youtube_url": ""
+  },
+  {
+    "title": "Plumbing: Sewer line clearing -inspection",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 275,
+    "youtube_url": ""
+  },
+  {
+    "title": "Smoke Detectors: Replace backup battery",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 30,
+    "youtube_url": ""
+  },
+  {
+    "title": "Water Heater: Have water heater inspected",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 75,
+    "youtube_url": ""
+  },
+  {
+    "title": "Weedwhacker: Replace line",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 3,
+    "youtube_url": ""
+  },
+  {
+    "title": "Pressure washer: Change oil + filter",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 9,
+    "youtube_url": ""
+  },
+  {
+    "title": "Neato: Replace filters",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 16,
+    "youtube_url": ""
+  },
+  {
+    "title": "Riding Mower: Replace blades",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 50,
+    "youtube_url": ""
+  },
+  {
+    "title": "Push Mower: Replace blades",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 20,
+    "youtube_url": ""
+  },
+  {
+    "title": "Chimney: Sweep",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 99,
+    "youtube_url": ""
+  },
+  {
+    "title": "Grout: Reseal",
+    "description": "",
+    "task_category": "Interior",
+    "due_date": "2024-06-01",
+    "frequency_value": 2,
+    "frequency_unit": "years",
+    "typical_cost": 15,
+    "youtube_url": ""
+  },
+  {
+    "title": "Blow Leaves",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-10-01",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Second Leaf Blowing",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-10-15",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  },
+  {
+    "title": "Final Leaf Blowing",
+    "description": "",
+    "task_category": "Exterior",
+    "due_date": "2024-11-01",
+    "frequency_value": 1,
+    "frequency_unit": "years",
+    "typical_cost": 0,
+    "youtube_url": ""
+  }
+]

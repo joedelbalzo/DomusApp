@@ -35,7 +35,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1>Properties</h1>
+      <h1>Properties!</h1>
       {content}
     </div>
   );

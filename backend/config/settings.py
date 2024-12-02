@@ -73,7 +73,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000', 
 ]
 
-ROOT_URLCONF = 'backend.urls'
+ROOT_URLCONF = 'config.urls'
 
 TEMPLATES = [
     {
@@ -91,7 +91,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'backend.wsgi.application'
+WSGI_APPLICATION = 'config.wsgi.application'
 
 
 # Database
